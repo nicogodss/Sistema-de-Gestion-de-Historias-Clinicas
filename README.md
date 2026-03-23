@@ -6,7 +6,7 @@ Console-based system developed in C++ for managing patient medical records. The 
 This project was built as part of an academic assignment focused on structured programming and data management.
 
 ## Problem Context
-The system simulates a healthcare institution that requires an organized way to manage patient information, avoiding data loss, duplication, and inefficient access to medical records
+The system simulates a healthcare institution that requires an organized way to manage patient information, avoiding data loss, duplication, and inefficient access to medical records.
 
 ## Features
 - Register new patients with personal data
